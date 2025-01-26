@@ -3,7 +3,7 @@ Features
 Frontend:
 Built with React.
 Add user functionality.
-Edit user functionality.
+Edit user functionality. 
 Show user list.
 Backend:
 Built with PHP.
